@@ -20,3 +20,4 @@ roomId = -1
 
 //add your personal variables under this line
 
+enemyHealth = 100;

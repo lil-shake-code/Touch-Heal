@@ -16,7 +16,8 @@ your sharedProperties
 
 	x = real(SP._x)
 	y = real(SP._y)
-	//var name = SP._name 
+
+	enemyHealth = real(SP._H)
 
 
 

@@ -45,5 +45,6 @@ y -= keyboard_check(vk_up) - keyboard_check(vk_down)
 
 global.sharedProperties = {
 	_x : x,
-	_y : y
+	_y : y,
+	_H : health
 }
